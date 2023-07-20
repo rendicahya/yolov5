@@ -1,0 +1,5 @@
+/nas.dbms/randy/datasets/ucf101-mp4/ApplyEyeMakeup/v_ApplyEyeMakeup_g19_c02.mp4
+/nas.dbms/randy/datasets/ucf101-mp4/ApplyEyeMakeup/v_ApplyEyeMakeup_g19_c04.mp4
+/nas.dbms/randy/datasets/ucf101-mp4/GolfSwing/v_GolfSwing_g01_c01.mp4
+/nas.dbms/randy/datasets/ucf101-mp4/GolfSwing/v_GolfSwing_g01_c02.mp4
+/nas.dbms/randy/datasets/ucf101-mp4/PlayingPiano/v_PlayingPiano_g01_c01.mp4
